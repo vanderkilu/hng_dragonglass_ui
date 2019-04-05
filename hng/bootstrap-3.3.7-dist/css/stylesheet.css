@@ -1,0 +1,140 @@
+p.core-values{
+    /*font-family: 'Cookie', cursive;*/
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.1em;
+    color: #0c0c0c;
+    letter-spacing: 0.02em;
+    padding: 10px;
+    line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'B612', sans-serif;
+    /*font-weight: bold;*/
+}
+
+html {
+    height: 100%;
+    /*background: #6441A5;  fallback for old browsers */
+    /*background: -webkit-linear-gradient(to left, #6441A5, #2a0845); /* Chrome 10-25, Safari 5.1-6 */*/
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background: transparent !important;
+    /*font-family: montserrat;*/
+    color: #2C3E50;
+}
+
+.parent{
+    border-top: 10px solid #ad2fad;
+}
+
+p{
+    /*font-family: 'Amiri', serif;*/
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 1.5em;
+    /*color: #2f2f2f;*/
+    color: #000;
+    letter-spacing: 0.02em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.line-height{
+    line-height: 1.8em;
+}
+
+.padd{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.error{
+    color: #FF0000;
+}
+
+.occupation{
+    color: #008800;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    padding: 5px;
+    /*border: 2px dashed #008800;*/
+}
+
+a{
+    text-decoration: none !important;
+    color: #008800;
+}
+
+.status-area{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 10px;
+   -webkit-box-shadow: -3px 2px 10px -5px rgba(125,119,125,1);
+    -moz-box-shadow: -3px 2px 10px -5px rgba(125,119,125,1);
+    box-shadow: -3px 2px 10px -5px rgba(125,119,125,1);
+}
+
+.form-control{
+    margin-bottom: 20px !important;
+    border: 0;
+}
+
+.post{
+    margin-bottom: 30px;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 0 !important;
+  border-radius: 4px;
+}
+
+.form-control:focus {
+  border-color: transparent !important;
+  outline: 0;
+}
+.form-control::-moz-placeholder {
+  color: #000000;
+  opacity: 1;
+}
+.form-control:-ms-input-placeholder {
+  color: #000000;
+}
+.form-control::-webkit-input-placeholder {
+  color: #000000;
+}
+
+input{
+    border: 0 !important;
+}
+
+input:focus {
+  border-color: transparent !important;
+  outline: 0;
+}
+
+ul.side_nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a.side_nav {
+    display: block;
+    width: 60px;
+    font-size: 25px;
+    color: #000000 !important;
+    font-weight: bold;
+}
