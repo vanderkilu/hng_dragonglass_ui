@@ -16,7 +16,6 @@ Making changes
 * git add <filename> to mount the files modified
 * git commit -m "Commit message"
 * git push -u origin master
-*
 ***
 Making Pull Requests 
 * Work on your your forked copy
