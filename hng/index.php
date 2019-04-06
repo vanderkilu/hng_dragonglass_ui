@@ -3,6 +3,7 @@
 	<?php include'includes/head.php'; ?>
 	<link rel="stylesheet" href="style.css" type="text/css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<?php include 'includes/head.php'; ?>
 <body>
 	<div class="parent">
 		<div class="container padd">
@@ -15,7 +16,7 @@
 								<div class="row text-center">
 									<h3>TONI ATUNRASE</h3>
 									<h4 class="occupation">Web/Software Developer</h4>
-									<p>Software Enginner at AWS design enthusiast and music lover</p>
+									<p>Software Engineer at AWS design enthusiast and music lover</p>
 									<i class="fa fa-medium"></i>
 									<i class="fa fa-github"></i>
 									<i class="fa fa-twitter"></i>
@@ -30,6 +31,8 @@
 								  <li><a class="side_nav" href="#about">About</a></li>
 								</ul>
 							</div>
+							
+							
 						</div>
 					</div>
 				</div>
@@ -70,6 +73,9 @@
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
 										<p>We need to ask whether our technological progress is antagonistic to the place that we call home. was recently revealed that Coca-Cola currently produces three million tonnes of plastic packaging a year which was.....</p>
+										<p>
+										<b>Jim Colt</b>	
+										</p>
 									</div>
 								</div>
 
@@ -80,6 +86,9 @@
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
 										<p>We need to ask whether our technological progress is antagonistic to the place that we call home. was recently revealed that Coca-Cola currently produces three million tonnes of plastic packaging a year which was.....</p>
+										<p>
+										<b>Jim Colt</b>	
+										</p>
 									</div>
 								</div>
 
@@ -90,6 +99,9 @@
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
 										<p>We need to ask whether our technological progress is antagonistic to the place that we call home. was recently revealed that Coca-Cola currently produces three million tonnes of plastic packaging a year which was.....</p>
+										<p>
+										<b>Jim Colt</b>	
+										</p>
 									</div>
 								</div>
 
@@ -100,6 +112,9 @@
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
 										<p>We need to ask whether our technological progress is antagonistic to the place that we call home. was recently revealed that Coca-Cola currently produces three million tonnes of plastic packaging a year which was.....</p>
+										<p>
+										<b>Jim Colt</b>	
+										</p>
 									</div>
 								</div>
 							<div class="col-sm-6"></div>
@@ -107,9 +122,5 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-2"></div>
-			</div>
-		</div>
-	</div>
-</body>
-</html>
+	<?php include 'includes/footer.php'; ?>
+			
