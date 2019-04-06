@@ -16,4 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="bootstrap-3.3.7-dist/css/stylesheet.css">
 	<script src="bootstrap-3.3.7-dist/js/jquery-3.2.1.js"></script>
 	<script type="text/javascript" src="bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
