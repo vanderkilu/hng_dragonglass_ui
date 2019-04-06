@@ -3,7 +3,6 @@ Frontend Work for team_dragon_glass HNG Internship 5.
 ***
 Steps
 * git init on an empty folder on your pc
-* clone the repository  
 * git remote add origin https://github.com/austinjerrytech/hng_dragonglass_ui.git
 * git pull origin develop
 * cd hng
