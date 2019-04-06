@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<?php include'includes/head.php'; ?>
+	<?php include 'includes/head.php'; ?>
 <body>
 	<div class="parent">
 		<div class="container padd">
@@ -13,7 +13,7 @@
 								<div class="row text-center">
 									<h3>TONI ATUNRASE</h3>
 									<h4 class="occupation">Web/Software Developer</h4>
-									<p>Software Enginner at AWS design enthusiast and music lover</p>
+									<p>Software Engineer at AWS design enthusiast and music lover</p>
 									<i class="fa fa-medium"></i>
 									<i class="fa fa-github"></i>
 									<i class="fa fa-twitter"></i>
@@ -107,5 +107,5 @@
 						</div>
 					</div>
 				</div>
-	<?php include'includes/footer.php'; ?>
+	<?php include 'includes/footer.php'; ?>
 			
