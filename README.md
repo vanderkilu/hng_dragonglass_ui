@@ -20,7 +20,12 @@ if you want to contribute.
 git clone https://github.com/austinjerrytech/hng_dragonglass_ui.git
 ```
 
-- CD hng_dragonglass_ui/
+- Change into the new folder
+
+```
+cd hng_dragonglass_ui/
+```
+
 - Start the server by running
 
 ```
