@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<?php include'includes/head.php'; ?>
+	<link rel="stylesheet" href="style.css" type="text/css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body>
 	<div class="parent">
 		<div class="container padd">
